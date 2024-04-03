@@ -1,0 +1,36 @@
+body {
+    background-image: url("/home/oem/Desktop/TRUEINFO LABS/responsive_layout/css/images/paper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:contain;
+    margin: 20px;
+  }
+
+  .banner {
+    width: 40%;
+    margin: 0 auto; /* Center-align the banner horizontally */
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Vertically center-align the content */
+  }
+
+  .title {
+    text-align: center;
+  }
+
+  .container {
+  column-width: 300px;
+  column-gap: 2em;
+  padding-bottom: 10px;
+  }
+
+  .paragraph {
+  margin-top: 0px;
+  font-size: 1.2em;
+  }
+
+  .col-img {
+    width: 100%;
+  }
